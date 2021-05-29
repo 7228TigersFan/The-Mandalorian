@@ -1,10 +1,11 @@
 # The-Mandalorian
-# # Used Libraries and Their Versions:
 
-# # # matplotlib==3.3.4
+Used Libraries and Their Versions:
 
-# # # numpy==1.19.5
+ matplotlib==3.3.4
 
-# # # pandas==1.1.5
+numpy==1.19.5
 
-# # # tensorflow==2.0.0rc1
+pandas==1.1.5
+
+tensorflow==2.0.0rc1
